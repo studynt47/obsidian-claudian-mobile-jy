@@ -1,0 +1,11 @@
+# Obsidian 插件本地配置（含 API Key 等敏感信息）
+data.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 构建/依赖
+node_modules/
+*.log
+.env

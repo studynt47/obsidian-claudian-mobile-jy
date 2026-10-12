@@ -1,0 +1,10 @@
+{
+  "id": "m-plan-vault-agent",
+  "name": "M Plan Vault Agent",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "M Plan vault agent — AI-powered Obsidian plugin. Works on desktop and iOS.",
+  "author": "studynt47",
+  "authorUrl": "https://github.com/studynt47/obsidian-claudian-mobile-jy",
+  "isDesktopOnly": false
+}
